@@ -1,0 +1,12 @@
+c:\users\dylan\documents\visual studio 2015\Projects\Magic Number Four\Magic Number Four\bin\Debug\Magic Number Four.exe.config
+c:\users\dylan\documents\visual studio 2015\Projects\Magic Number Four\Magic Number Four\bin\Debug\Magic Number Four.exe
+c:\users\dylan\documents\visual studio 2015\Projects\Magic Number Four\Magic Number Four\bin\Debug\Magic Number Four.pdb
+c:\users\dylan\documents\visual studio 2015\Projects\Magic Number Four\Magic Number Four\obj\Debug\Magic Number Four.csprojResolveAssemblyReference.cache
+c:\users\dylan\documents\visual studio 2015\Projects\Magic Number Four\Magic Number Four\obj\Debug\Magic Number Four.exe
+c:\users\dylan\documents\visual studio 2015\Projects\Magic Number Four\Magic Number Four\obj\Debug\Magic Number Four.pdb
+C:\Users\dylan\OneDrive\02_Coding Projects\Visual Studio\Magic Number Four\Magic Number Four\bin\Debug\Magic Number Four.exe.config
+C:\Users\dylan\OneDrive\02_Coding Projects\Visual Studio\Magic Number Four\Magic Number Four\bin\Debug\Magic Number Four.exe
+C:\Users\dylan\OneDrive\02_Coding Projects\Visual Studio\Magic Number Four\Magic Number Four\bin\Debug\Magic Number Four.pdb
+C:\Users\dylan\OneDrive\02_Coding Projects\Visual Studio\Magic Number Four\Magic Number Four\obj\Debug\Magic Number Four.csprojResolveAssemblyReference.cache
+C:\Users\dylan\OneDrive\02_Coding Projects\Visual Studio\Magic Number Four\Magic Number Four\obj\Debug\Magic Number Four.exe
+C:\Users\dylan\OneDrive\02_Coding Projects\Visual Studio\Magic Number Four\Magic Number Four\obj\Debug\Magic Number Four.pdb
